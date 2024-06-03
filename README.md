@@ -22,7 +22,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ![image](https://github.com/SanchezB128/Act1U3/assets/143743573/843b3dc4-b453-4592-91d4-5deed421f63a)
 
-[image](https://github.com/SanchezB128/Act1U3/assets/143743573/e5020e4f-a380-4432-8a18-26e243f0346d)
+![image](https://github.com/SanchezB128/Act1U3/assets/143743573/75dfb9dd-0639-4abf-8af2-064fba37c32a)
+
 
 ##LINK DE EJEMPLO
 
